@@ -9,6 +9,4 @@ class Song
     song = Song.new(filename)
     song = filename.split(" - ")[1]
   end
-  
-
 end
